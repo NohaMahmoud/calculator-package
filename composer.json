@@ -1,5 +1,5 @@
 {
-  "name": "noha/math",
+  "name": "calculator-package",
   "description": "calculator package",
   "type": "library",
   "authors": [
@@ -8,7 +8,9 @@
       "email": "nohamahmood94@hotmail.com"
     }
   ],
-  "require": {},
+  "require": {
+    "php": ">=5.0.0"
+  },
   "version": "1.0.0",
   "autoload": {
     "psr-4": {
